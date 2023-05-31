@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("hello,yao");
         System.out.println("hello,xie");
         System.out.println("i love c++");
+        System.out.println("i love javascript");
+        System.out.println("html,css,typescript");
     }
 }
