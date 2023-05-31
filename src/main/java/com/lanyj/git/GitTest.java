@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("i love javascript");
         System.out.println("html,css,typescript");
         System.out.println("i am fine, thank you, and you");
+        System.out.println("test, pull");
     }
 }
